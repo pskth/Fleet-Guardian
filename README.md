@@ -73,13 +73,6 @@ Using machine learning and real-time data monitoring, it helps fleet operators i
 
 ---
 
-## 👥 Team
-- **Shaldon Barnes**
--**Parimi Saketh Kumar**
--**Anish Bhat**
-
----
-
 ## 📄 License
 This project is licensed under the **MIT License** — see the LICENSE file for details.
 
