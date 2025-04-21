@@ -1,0 +1,386 @@
+[
+  {
+    "row": 1,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 1,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 1,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 0
+    }
+  },
+  {
+    "row": 1,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1309.31 hours"
+    }
+  },
+  {
+    "row": 2,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 2,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 2,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 2,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1295.75 hours"
+    }
+  },
+  {
+    "row": 3,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 3,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 3,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 0
+    }
+  },
+  {
+    "row": 3,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1303.30 hours"
+    }
+  },
+  {
+    "row": 4,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 4,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 4,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 0
+    }
+  },
+  {
+    "row": 4,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1307.19 hours"
+    }
+  },
+  {
+    "row": 5,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 5,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 5,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 0
+    }
+  },
+  {
+    "row": 5,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1309.63 hours"
+    }
+  },
+  {
+    "row": 6,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 6,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 6,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 0
+    }
+  },
+  {
+    "row": 6,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1312.81 hours"
+    }
+  },
+  {
+    "row": 7,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 7,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 7,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 0
+    }
+  },
+  {
+    "row": 7,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1306.22 hours"
+    }
+  },
+  {
+    "row": 8,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 8,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 8,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 8,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1313.70 hours"
+    }
+  },
+  {
+    "row": 9,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 9,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 9,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 0
+    }
+  },
+  {
+    "row": 9,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1305.01 hours"
+    }
+  },
+  {
+    "row": 10,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 10,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 10,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 0
+    }
+  },
+  {
+    "row": 10,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1290.39 hours"
+    }
+  },
+  {
+    "row": 11,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 11,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 11,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 0
+    }
+  },
+  {
+    "row": 11,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1308.68 hours"
+    }
+  },
+  {
+    "row": 12,
+    "prediction_type": "tire_anomaly",
+    "status_code": 200,
+    "response": {
+      "tire_pressure_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 12,
+    "prediction_type": "oil_level_anomaly",
+    "status_code": 200,
+    "response": {
+      "oil_level_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 12,
+    "prediction_type": "engine_temp_anomaly",
+    "status_code": 200,
+    "response": {
+      "engine_temp_anomaly_prediction": 1
+    }
+  },
+  {
+    "row": 12,
+    "prediction_type": "rul",
+    "status_code": 200,
+    "response": {
+      "RUL_prediction": "1307.45 hours"
+    }
+  }
+]
